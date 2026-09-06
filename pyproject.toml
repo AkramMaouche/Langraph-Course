@@ -1,0 +1,27 @@
+[project]
+name = "langraph-Course"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Akram Arilaz Maouche", email = "akram.maouche07@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "google-genai>=2.20.0",
+    "langchain>=1.3.18",
+    "langgraph>=1.2.11",
+    "langsmith>=0.11.2",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+]
+
+[project.scripts]
+langraph-Course = "langraph-Course:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv]
+package = false
