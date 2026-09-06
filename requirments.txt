@@ -1,6 +1,0 @@
-Langgraph 
-Langchain 
-Langsmith 
-numpy 
-pandas 
-google-genai 

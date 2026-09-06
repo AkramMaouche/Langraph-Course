@@ -1,0 +1,6 @@
+google-genai
+langchain
+langgraph
+langsmith
+numpy
+pandas
