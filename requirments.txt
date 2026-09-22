@@ -4,3 +4,6 @@ langsmith
 python-dotenv
 langchain-groq 
 langchain_tavily
+python-dotenv
+google-genai
+langchain-google-vertexai
