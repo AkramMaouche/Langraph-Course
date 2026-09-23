@@ -7,3 +7,6 @@ langchain_tavily
 python-dotenv
 google-genai
 langchain-google-vertexai
+langchain_tavily
+langchain_community
+tavily
